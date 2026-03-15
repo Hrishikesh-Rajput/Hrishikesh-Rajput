@@ -1,25 +1,28 @@
+<!-- VECTOR / LINEAR ALGEBRA STYLE BACKGROUND -->
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Hrishikesh Rajput</h1>
-<h3 align="center">Data | Machine Learning | AI </h3>
+<h3 align="center">Data Engineer | Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00F72D&center=true&vCenter=true&width=850&lines=Building+Data+Engineering+Projects;PySpark+%7C+Azure+%7C+SQL;Machine+Learning+and+AI;Cloud+Data+Platforms;Analytics+and+Data+Pipelines">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+and+Data+Engineering+Systems;PySpark+%7C+Azure+%7C+Machine+Learning;Cloud+Data+Platforms+and+Analytics;Vector+Embeddings+%7C+NLP+%7C+AI">
 </p>
 
 ---
 
-# 🚀 Currently Working On
+# 📰 Latest GitHub Activity
 
-🔹 Building **Data Engineering and Machine Learning projects**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Rajput&theme=tokyo-night&area=true"/>
 
-🔹 Designing **scalable ETL pipelines and analytics platforms**
+---
 
-🔹 Exploring **Azure Data Engineering ecosystem**
+# 🧠 Neural Network Animation
 
-🔹 Developing **AI and NLP applications**
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+</p>
 
 ---
 
@@ -36,13 +39,17 @@
 An NLP system that evaluates student answers automatically using transformer embeddings.
 
 ✔ Sentence Transformers for semantic similarity  
-✔ Cosine similarity scoring for grading  
-✔ Automated evaluation system using vector embeddings  
+✔ Cosine similarity scoring  
+✔ Automated grading system  
 
 <p align="center">
+
 <a href="https://github.com/Hrishikesh-Rajput/Semantic-Similarity-Based-Automated-Answer-Evaluation-Using-Transformer-Embeddings">
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" height="60">
+
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
 </p>
 
 ---
@@ -53,17 +60,20 @@ An NLP system that evaluates student answers automatically using transformer emb
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
 </p>
 
-A machine learning system that detects toxic and hate speech from social media content.
+Machine learning system to classify toxic and hate speech.
 
-✔ NLP preprocessing pipeline  
+✔ NLP preprocessing  
 ✔ TF-IDF feature engineering  
-✔ Supervised classification models  
-✔ Social media toxicity detection  
+✔ Supervised ML classification  
 
 <p align="center">
+
 <a href="https://github.com/Hrishikesh-Rajput/Hate-Speeh-Classification">
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" height="60">
+
+<img src="https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
 </p>
 
 ---
@@ -74,78 +84,86 @@ A machine learning system that detects toxic and hate speech from social media c
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%">
 </p>
 
-A cloud-native **Azure Lakehouse platform** for fraud detection and analytics.
+Cloud-native **Azure Lakehouse fraud detection platform**
 
 ✔ Medallion Architecture (Bronze → Silver → Gold)  
-✔ Azure Data Factory + Azure Data Lake + Databricks pipelines  
-✔ ML fraud detection models with MLflow tracking  
-✔ Dataiku orchestration for ML lifecycle management  
-✔ Dockerized FastAPI fraud prediction service  
-✔ Power BI dashboard for operational insights  
-✔ RAG explainability using Azure OpenAI + vector search  
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Engineering-Azure%20Lakehouse-blue?style=for-the-badge">
-</p>
+✔ Azure Data Factory + Data Lake + Databricks  
+✔ MLflow experiment tracking  
+✔ Dataiku ML workflow orchestration  
+✔ Dockerized FastAPI prediction API  
+✔ Power BI operational dashboard  
+✔ RAG explainability using Azure OpenAI
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishikesh-Rajput&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-Rajput&show_icons=true&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Rajput&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Rajput&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 3D Contribution Visualization
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishikesh-Rajput&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Rajput&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Rajput&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Rajput&theme=react-dark)
-
----
-
-# 📊 3D Contribution Graph
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishikesh-Rajput&theme=github_dark)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Hrishikesh-Rajput&color=blue)
-
----
-
-# 🤝 Connect With Me
+# ✨ AI-Style Holographic Contact Buttons
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/hrishikesh-rajput-6a3600257/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+
+<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:business.hrishikeshrajput@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+
+<img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake Animation
 
-![snake gif](https://github.com/Hrishikesh-Rajput/Hrishikesh-Rajput/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github.com/Hrishikesh-Rajput/Hrishikesh-Rajput/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
-⭐ Building projects and learning every day
+⭐ Building AI systems and data platforms every day
