@@ -13,62 +13,43 @@
 
 ## 🚀 About Me
 
-🎓 MCA Graduate  
-🎓 PG Diploma in Big Data Analytics (CDAC)
-
-🔬 Interests
-
+🔬Work with 
 - Data Engineering
 - Machine Learning
-- Linear Algebra for AI
 - Data Pipelines
-- Cloud Data Platforms
-
 ---
+Worked with 
 
-# 🛠 Tech Stack
-
-### Programming
-Python | SQL | Linux
-
-### Data Engineering
-PySpark | Azure Data Factory | Azure Databricks | Delta Lake
-
-### Databases
-Azure SQL | PostgreSQL | Data Warehousing
-
-### Visualization
-Tableau | Matplotlib | Seaborn
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishikesh-Rajput&show_icons=true&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Rajput&theme=tokyonight)
 
 ---
 
 # 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Rajput&layout=compact&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Rajput&theme=react-dark)
 
 ---
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=Hrishikesh-Rajput&color=blue)
 
 ---
 
