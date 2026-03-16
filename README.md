@@ -16,10 +16,6 @@
 
 # 🏥 Healthcare Claims Fraud Detection Lakehouse
 
-<p align="center">
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%">
-</p>
-
 Cloud-native **Azure Lakehouse fraud detection platform**
 
 ✔ Medallion Architecture (Bronze → Silver → Gold)  
