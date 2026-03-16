@@ -3,8 +3,8 @@
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Hrishikesh Rajput</h1>
-<h3 align="center">Data Engineer | Machine Learning Enthusiast | Python Developer</h3>
+<h1 align="center">Hi 👋 Hrishikesh Here. </h1>
+<h3 align="center"> Data Engineer | Machine Learning Enthusiast </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+and+Data+Engineering+Systems;PySpark+%7C+Azure+%7C+Machine+Learning;Cloud+Data+Platforms+and+Analytics;Vector+Embeddings+%7C+NLP+%7C+AI">
@@ -25,6 +25,23 @@
 ---
 
 # 🚀 Featured Projects
+
+---
+## 🏥 Healthcare Claims Fraud Detection Lakehouse
+
+<p align="center">
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%">
+</p>
+
+Cloud-native **Azure Lakehouse fraud detection platform**
+
+✔ Medallion Architecture (Bronze → Silver → Gold)  
+✔ Azure Data Factory + Data Lake + Databricks  
+✔ MLflow experiment tracking  
+✔ Dataiku ML workflow orchestration  
+✔ Dockerized FastAPI prediction API  
+✔ Power BI operational dashboard  
+✔ RAG explainability using Azure OpenAI
 
 ---
 
@@ -60,8 +77,7 @@ An NLP system that evaluates student answers automatically using transformer emb
 
 Machine learning system to classify toxic and hate speech.
 
-✔ NLP preprocessing  
-✔ TF-IDF feature engineering  
+✔ NLP preprocessing    
 ✔ Supervised ML classification  
 
 <p align="center">
@@ -73,24 +89,6 @@ Machine learning system to classify toxic and hate speech.
 </a>
 
 </p>
-
----
-
-## 🏥 Healthcare Claims Fraud Detection Lakehouse
-
-<p align="center">
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%">
-</p>
-
-Cloud-native **Azure Lakehouse fraud detection platform**
-
-✔ Medallion Architecture (Bronze → Silver → Gold)  
-✔ Azure Data Factory + Data Lake + Databricks  
-✔ MLflow experiment tracking  
-✔ Dataiku ML workflow orchestration  
-✔ Dockerized FastAPI prediction API  
-✔ Power BI operational dashboard  
-✔ RAG explainability using Azure OpenAI
 
 ---
 
