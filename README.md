@@ -1,16 +1,11 @@
 <!-- AI BACKGROUND -->
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ0Y3EzdmRrbno1dmw4aWg2dDA2dHl0cXlzemUxZTg4eHI1dW51YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IsI9Bq9qeVS6e0U/giphy.gif" width="100%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBpOWsxYXF6enplemQ5ajVld3FveWZ3N2k2bzhhZHNjY2kzdjgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nhuWxzoEDXiXvPZT5S/giphy.gif" width="100%">
 </div>
 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+and+Data+Engineering+Systems;PySpark+%7C+Azure+%7C+Machine+Learning;Cloud+Data+Platforms+and+Analytics;Vector+Embeddings+%7C+NLP+%7C+AI">
-</p>
-
-
-<p align="center">
-<img src="https://Hrishikesh-Rajput.github.io/ai-neural-visualization/preview.gif" width="100%">
 </p>
 
 # 📰 Latest work
