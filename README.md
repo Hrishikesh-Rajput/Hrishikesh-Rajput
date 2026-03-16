@@ -10,9 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+and+Data+Engineering+Systems;PySpark+%7C+Azure+%7C+Machine+Learning;Cloud+Data+Platforms+and+Analytics;Vector+Embeddings+%7C+NLP+%7C+AI">
 </p>
 
-<p align="center">
-<img src="https://Hrishikesh-Rajput.github.io/ai-neural-visualization/preview.gif" width="100%">
-</p>
+
 ---
 
 # 📰 Latest GitHub Activity
@@ -21,12 +19,9 @@
 
 ---
 
-# 🧠 Neural Network Animation
-
-<p align="center">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+<h1 align="center"> Neural Network Animation</h1>p align="center">
+<img src="https://Hrishikesh-Rajput.github.io/ai-neural-visualization/preview.gif" width="100%">
 </p>
-
 ---
 
 # 🚀 Featured Projects
