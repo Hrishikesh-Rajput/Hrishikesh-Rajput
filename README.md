@@ -1,16 +1,18 @@
 <!-- AI BACKGROUND -->
-<p align="center">
+<div align="center">
 <img src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" width="100%">
-</p>
+<h1>Welcome 👋 Hrishikesh Here</h1>
+<h3>Data Related Anything Will Work</h3>
+</div>
 
-<h1 align="center">Hi 👋 Hrishikesh Here</h1>
-<h3 align="center">Data Related Anything Will Work</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+and+Data+Engineering+Systems;PySpark+%7C+Azure+%7C+Machine+Learning;Cloud+Data+Platforms+and+Analytics;Vector+Embeddings+%7C+NLP+%7C+AI">
 </p>
 
----
+<p align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
+</p>
 
 <p align="center">
 <img src="https://Hrishikesh-Rajput.github.io/ai-neural-visualization/preview.gif" width="100%">
@@ -21,17 +23,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Rajput&theme=tokyo-night&area=true"/>
 </p>
-
----
-
-
-
-
----
-
-# 🚀 Some of our work
-
----
 
 # 🏥 Healthcare Claims Fraud Detection Lakehouse
 
@@ -50,7 +41,7 @@ Cloud-native **Azure Lakehouse fraud detection platform**
 ✔ RAG explainability using Azure OpenAI  
 
 <p align="center">
-
+<a href="https://github.com/Hrishikesh-Rajput/enterprise-claims-modernization-platform">
 <img src="https://img.shields.io/badge/Azure_Lakehouse_Project-00FFFF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
 </p>
@@ -58,10 +49,6 @@ Cloud-native **Azure Lakehouse fraud detection platform**
 ---
 
 # 🧠 Semantic Similarity Based Automated Answer Evaluation
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
-</p>
 
 An NLP system that evaluates student answers automatically using **transformer embeddings**.
 
@@ -78,32 +65,6 @@ An NLP system that evaluates student answers automatically using **transformer e
 </a>
 
 </p>
-
----
-
-# 🛑 Hate Speech Detection using Machine Learning
-
-<p align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
-</p>
-
-Machine learning system to **classify toxic and hate speech content**.
-
-✔ NLP preprocessing  
-✔ Supervised ML classification  
-
-<p align="center">
-
-<a href="https://github.com/Hrishikesh-Rajput/Hate-Speeh-Classification">
-
-<img src="https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
 # Stats
 
 <p align="center">
