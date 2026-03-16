@@ -1,8 +1,7 @@
 <!-- AI BACKGROUND -->
 <div align="center">
-<img src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" width="100%">
-<h1>Welcome 👋 Hrishikesh Here</h1>
-<h3>Data Related Anything Will Work</h3>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI5MzFxaW45dGZpd2VibHNsMzE0anZkMzQyYXMyeG8zeXhidWtwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SrBLCLgswiM7084uEK/giphy.gif" width="100%">
+
 </div>
 
 
@@ -10,9 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+and+Data+Engineering+Systems;PySpark+%7C+Azure+%7C+Machine+Learning;Cloud+Data+Platforms+and+Analytics;Vector+Embeddings+%7C+NLP+%7C+AI">
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
-</p>
 
 <p align="center">
 <img src="https://Hrishikesh-Rajput.github.io/ai-neural-visualization/preview.gif" width="100%">
