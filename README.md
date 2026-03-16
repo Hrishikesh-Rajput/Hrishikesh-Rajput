@@ -1,33 +1,39 @@
-<!-- VECTOR / LINEAR ALGEBRA STYLE BACKGROUND -->
+<!-- AI BACKGROUND -->
 <p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 Hrishikesh Here. </h1>
-<h3 align="center"> Data Engineer | Machine Learning Enthusiast </h3>
+<h1 align="center">Hi 👋 Hrishikesh Here</h1>
+<h3 align="center">Data Related Anything Will Work</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+and+Data+Engineering+Systems;PySpark+%7C+Azure+%7C+Machine+Learning;Cloud+Data+Platforms+and+Analytics;Vector+Embeddings+%7C+NLP+%7C+AI">
 </p>
 
-
 ---
 
-# 📰 Latest GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Rajput&theme=tokyo-night&area=true"/>
-
----
-
-<h1 align="center"> Neural Network Animation</h1>p align="center">
+<p align="center">
 <img src="https://Hrishikesh-Rajput.github.io/ai-neural-visualization/preview.gif" width="100%">
 </p>
+
+# 📰 Latest work
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Rajput&theme=tokyo-night&area=true"/>
+</p>
+
 ---
 
-# 🚀 Featured Projects
+
+
 
 ---
-## 🏥 Healthcare Claims Fraud Detection Lakehouse
+
+# 🚀 Some of our work
+
+---
+
+# 🏥 Healthcare Claims Fraud Detection Lakehouse
 
 <p align="center">
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%">
@@ -36,22 +42,28 @@
 Cloud-native **Azure Lakehouse fraud detection platform**
 
 ✔ Medallion Architecture (Bronze → Silver → Gold)  
-✔ Azure Data Factory + Data Lake + Databricks  
+✔ Azure Data Factory + Azure Data Lake + Databricks  
 ✔ MLflow experiment tracking  
 ✔ Dataiku ML workflow orchestration  
 ✔ Dockerized FastAPI prediction API  
 ✔ Power BI operational dashboard  
-✔ RAG explainability using Azure OpenAI
+✔ RAG explainability using Azure OpenAI  
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Azure_Lakehouse_Project-00FFFF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+</p>
 
 ---
 
-## 🧠 Semantic Similarity Based Automated Answer Evaluation
+# 🧠 Semantic Similarity Based Automated Answer Evaluation
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 </p>
 
-An NLP system that evaluates student answers automatically using transformer embeddings.
+An NLP system that evaluates student answers automatically using **transformer embeddings**.
 
 ✔ Sentence Transformers for semantic similarity  
 ✔ Cosine similarity scoring  
@@ -69,15 +81,15 @@ An NLP system that evaluates student answers automatically using transformer emb
 
 ---
 
-## 🛑 Hate Speech Detection using Machine Learning
+# 🛑 Hate Speech Detection using Machine Learning
 
 <p align="center">
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
 </p>
 
-Machine learning system to classify toxic and hate speech.
+Machine learning system to **classify toxic and hate speech content**.
 
-✔ NLP preprocessing    
+✔ NLP preprocessing  
 ✔ Supervised ML classification  
 
 <p align="center">
@@ -92,7 +104,7 @@ Machine learning system to classify toxic and hate speech.
 
 ---
 
-# 📊 GitHub Stats
+# Stats
 
 <p align="center">
 
@@ -102,7 +114,7 @@ Machine learning system to classify toxic and hate speech.
 
 ---
 
-# 🔥 GitHub Streak
+# Streak
 
 <p align="center">
 
@@ -112,7 +124,7 @@ Machine learning system to classify toxic and hate speech.
 
 ---
 
-# 📊 3D Contribution Visualization
+# Contribution
 
 <p align="center">
 
@@ -132,7 +144,7 @@ Machine learning system to classify toxic and hate speech.
 
 ---
 
-# ✨ AI-Style Holographic Contact Buttons
+# ✨ Connect With Me
 
 <p align="center">
 
@@ -152,7 +164,7 @@ Machine learning system to classify toxic and hate speech.
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -162,4 +174,4 @@ Machine learning system to classify toxic and hate speech.
 
 ---
 
-⭐ Building AI systems and data platforms every day
+⭐ **Building AI systems, data pipelines, and machine learning platforms every day**
