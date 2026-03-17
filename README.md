@@ -172,5 +172,32 @@ An NLP system that evaluates student answers automatically using **transformer e
 </p>
 
 ---
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6">
 
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">📊 Data Pipeline System</h3>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/project">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+ETL pipeline built using PySpark & Azure Data Factory  
+with scalable architecture and Delta Lake storage.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Azure-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DeltaLake-red?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
 ⭐ **Building AI systems, data pipelines, and machine learning platforms every day**
