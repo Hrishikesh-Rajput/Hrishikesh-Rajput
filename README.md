@@ -1,3 +1,55 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hrishikesh%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Systems&descSize=18&descAlignY=52" width="100%"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hrishikesh-rajput-6a3600257/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:business.hrishikeshrajput@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hrishikesh-Rajput&style=flat&color=blueviolet&label=Profile%20Views"/>
+</p>
+
+---
+
+### Hey there! 👋
+
+I'm a **Data Engineer & ML Enthusiast** passionate about building **scalable data platforms, ETL pipelines, and AI systems**.
+
+🚀 **What I'm building:** End-to-end data + ML systems using Azure, PySpark & modern AI techniques  
+
+🎯 **Open to:** Data Engineer / ML Engineer roles  
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
+
+**Data Engineering**
+<p>
+  <img src="https://img.shields.io/badge/-Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/-Azure_Data_Lake-0078D4?style=flat&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks"/>
+  <img src="https://img.shields.io/badge/-Delta_Lake-0A1E44?style=flat"/>
+</p>
+
+**AI & ML**
+<p>
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat"/>
+  <img src="https://img.shields.io/badge/-Transformers-FFCC00?style=flat"/>
+  <img src="https://img.shields.io/badge/-RAG-blueviolet?style=flat"/>
+</p>
+
+---
+
+
 <!-- AI BACKGROUND -->
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBpOWsxYXF6enplemQ5ajVld3FveWZ3N2k2bzhhZHNjY2kzdjgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nhuWxzoEDXiXvPZT5S/giphy.gif" width="100%">
