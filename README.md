@@ -14,11 +14,8 @@
 
 ### Hey there! 👋
 
-I'm a **Data Engineer & ML Enthusiast** passionate about building **scalable data platforms, ETL pipelines, and AI systems**.
-
-🚀 **What I'm building:** End-to-end data + ML systems using Azure, PySpark & modern AI techniques  
-
-🎯 **Open to:** Data Engineer / ML Engineer roles  
+I like **Building AI systems, data pipelines, and machine learning platforms** and passionate about building **scalable data platforms, ETL pipelines, and AI systems**.
+  
 
 ---
 
@@ -29,7 +26,6 @@ I'm a **Data Engineer & ML Enthusiast** passionate about building **scalable dat
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
 **Data Engineering**
@@ -161,43 +157,5 @@ An NLP system that evaluates student answers automatically using **transformer e
 
 </p>
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/Hrishikesh-Rajput/Hrishikesh-Rajput/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">📊 Data Pipeline System</h3>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-ETL pipeline built using PySpark & Azure Data Factory  
-with scalable architecture and Delta Lake storage.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PySpark-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Azure-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DeltaLake-red?style=flat-square"/>
-</p>
-
-</td>
-</tr>
-</table>
 ⭐ **Building AI systems, data pipelines, and machine learning platforms every day**
