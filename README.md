@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hrishikesh%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Systems&descSize=18&descAlignY=52" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=180&section=header&text=Hrishikesh%20Rajput&fontSize=42&fontColor=ffffff&animation=blinking&fontAlignY=32&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Systems&descSize=18&descAlignY=52" width="100%"/> -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=140&section=header&text=Hrishikesh%20Rajput&fontSize=36&fontColor=000000&fontAlignY=45&desc=Developer%20%7C%20Gen%20AI%20%7C%20Data%20Engineer&descSize=16&descAlignY=70" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrishikesh-rajput-6a3600257/">
@@ -26,19 +28,25 @@ I like **Building AI systems, data pipelines, and machine learning platforms** a
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java Core-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
 </p>
 
-**Data Engineering**
+**Data Engineering** + **Azure Ecosystem**
 <p>
-  <img src="https://img.shields.io/badge/-Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/-Azure_Data_Lake-0078D4?style=flat&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/-Azure Ecosystem-0078D4?style=flat&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/-RDBMS-0078D4?style=flat&logo=microsoftazure"/>
   <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks"/>
-  <img src="https://img.shields.io/badge/-Delta_Lake-0A1E44?style=flat"/>
+  <img src="https://img.shields.io/badge/-ACID Transactions-0A1E44?style=flat"/>
 </p>
 
 **AI & ML**
 <p>
-  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat"/>
+  <img src="https://img.shields.io/badge/-Applied ML-F7931E?style=flat"/>
+   <img src="https://img.shields.io/badge/-Deep Learning-F7931E?style=flat"/>
+  <img src="https://img.shields.io/badge/-GenAi-blueviolet?style=flat"/>
+  <img src="https://img.shields.io/badge/-CAG-blueviolet?style=flat"/>
+<img src="https://img.shields.io/badge/-LLM-blueviolet?style=flat"/>
+<img src="https://img.shields.io/badge/-FineTunning-blueviolet?style=flat"/>
   <img src="https://img.shields.io/badge/-Transformers-FFCC00?style=flat"/>
   <img src="https://img.shields.io/badge/-RAG-blueviolet?style=flat"/>
 </p>
